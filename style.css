@@ -106,4 +106,10 @@ body {
         position: absolute;
         transform: translate(70%, 65%);
     }
+     .upper-profile {
+        width: 85%;
+    }
+    .lower-profile {
+        width: 85%;
+    }
 }

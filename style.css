@@ -106,10 +106,19 @@ body {
         position: absolute;
         transform: translate(70%, 65%);
     }
-     .upper-profile {
+    .upper-profile {
         width: 85%;
     }
     .lower-profile {
         width: 85%;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .upper-profile {
+        height: 200px;
+    }
+    #profile-img {
+        height: 73vh;
     }
 }
